@@ -1,0 +1,9 @@
+{
+  "name": "TrainDriver_A16_fix",
+  "version": "0.17.0",
+  "factorio_version" : "0.17",
+  "title": "Train Driver",
+  "author": "IceDev",
+  "description": "When driving a train in manual mode, shows a visualisation of rail directions (which one is left, straight, right). Use CTRL + Q in order to enable.",
+  "dependencies": ["base >= 0.15.0"]
+}
