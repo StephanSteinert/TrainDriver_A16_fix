@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+  Bugfixes:
+    - Script error in speed check fixed
+---------------------------------------------------------------------------------------------------
+Version: 0.17.1
+  Changes:
+    - Displaying directions is now on by default - can still be disabled with key combo (Ctrl + Q by default)
+    - Directions are now also displayed if train is stopped (testing - only works reliable for one direction trains)
+    - Added changelog
+    - Displaying straight direction can be disabled in mod settings (Settings -> Mods -> Train Driver)
+    - Color of directions is now the player color
+    - Added German locale
+---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+  Changes:
+    - Updated to Factorio version 0.17
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+  Bugfixes:
+    - Updated to Factorio version 0.16
+---------------------------------------------------------------------------------------------------
