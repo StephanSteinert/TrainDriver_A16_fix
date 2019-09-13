@@ -28,6 +28,8 @@ end
 
 -- destroy all flying texts for given player
 function erase_current_marks(player_index)
+    init_player_table(player_index)
+
     for active_text_id, active_text in pairs(global.active_texts[player_index]) do
         if active_text.valid then
             active_text.destroy()
